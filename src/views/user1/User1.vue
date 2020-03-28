@@ -16,7 +16,7 @@
               </v-img>
             </v-row>
             <v-row justify="center">
-              <p class="display-1 mt-4">XX_ここに名前を入力します</p>
+              <p class="display-1 mt-4">MANU</p>
             </v-row>
             <v-row class="">
               <v-col class="col-2"> </v-col>
@@ -73,7 +73,7 @@
                   >
                     <p class="title">自己紹介</p>
                     <p>
-                      XX_ここに自己紹介文を入力します
+                      プログラミング歴1年半
                     </p>
                   </v-card>
                 </v-col>
@@ -93,7 +93,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します
+                          会社のwebシステムをGASとvue.jsで作成
                         </v-list-item-content>
                       </v-list-item>
                       <v-list-item class="my-n4">
@@ -101,7 +101,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します
+                          LINE-botはrailsで作成
                         </v-list-item-content>
                       </v-list-item>
                       <v-list-item class="">
@@ -109,7 +109,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します
+                          IoTはラズパイとpythonであれこれやってます。
                         </v-list-item-content>
                       </v-list-item>
                     </v-list>
