@@ -16,7 +16,7 @@
               </v-img>
             </v-row>
             <v-row justify="center">
-              <p class="display-1 mt-4">XX_ここに名前を入力します</p>
+              <p class="display-1 mt-4">XX_Hot</p>
             </v-row>
             <v-row class="">
               <v-col class="col-2"> </v-col>
@@ -93,7 +93,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します
+                          XX_機械学習、データ分析
                         </v-list-item-content>
                       </v-list-item>
                       <v-list-item class="my-n4">
@@ -126,7 +126,7 @@
                   >
                     <p class="title">好きな言葉</p>
                     <p>
-                      XX_ここに好きな言葉を入力します
+                      XX_のんびり
                     </p>
                   </v-card>
                 </v-col>

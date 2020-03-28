@@ -2,8 +2,8 @@
   <v-app>
     <p class="title ma-3">ポートフォリオ一覧</p>
     <v-container class="grey lighten-5" fluid>
-      <v-row justify="start" no-gutters class="ma-2">
-        <v-col v-for="user in userList" :key="user.name" sm="8" md="6" lg="4">
+      <v-row justify="center" no-gutters class="ma-2">
+        <v-col v-for="user in userList" :key="user.name" sm="12" md="6" lg="4">
           <v-card class="ma-5 pa-5" max-width="344" outlined>
             <v-list-item three-line>
               <v-list-item-content>
@@ -81,7 +81,7 @@ export default Vue.extend({
         route: "user3"
       },
       {
-        name: "user4",
+        name: "user4_ht",
         description: "コメント",
         image: require("@/views/user4/icon_image.png"),
         route: "user4"
