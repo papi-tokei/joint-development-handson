@@ -16,7 +16,7 @@
               </v-img>
             </v-row>
             <v-row justify="center">
-              <p class="display-1 mt-4">XX_ここに名前を入力します</p>
+              <p class="display-1 mt-4">ぜっとん</p>
             </v-row>
             <v-row class="">
               <v-col class="col-2"> </v-col>
@@ -73,7 +73,7 @@
                   >
                     <p class="title">自己紹介_user3</p>
                     <p>
-                      XX_ここに自己紹介文を入力します
+                      西京区に住んでます
                     </p>
                   </v-card>
                 </v-col>
@@ -93,7 +93,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します_user3
+                          バックエンド周りに興味があります。
                         </v-list-item-content>
                       </v-list-item>
                       <v-list-item class="my-n4">
@@ -126,7 +126,7 @@
                   >
                     <p class="title">好きな言葉_user3</p>
                     <p>
-                      XX_ここに好きな言葉を入力します_user3
+                      万事塞翁が馬
                     </p>
                   </v-card>
                 </v-col>
