@@ -71,7 +71,7 @@
                     tile
                     color="#cfe2f3"
                   >
-                    <p class="title">自己紹介</p>
+                    <p class="title">自己紹介_user3</p>
                     <p>
                       XX_ここに自己紹介文を入力します
                     </p>
@@ -86,14 +86,14 @@
                     tile
                     color="#ead1dc"
                   >
-                    <p class="title mb-0">興味のある技術</p>
+                    <p class="title mb-0">興味のある技術_user3</p>
                     <v-list class="transparent">
                       <v-list-item class="">
                         <v-list-item-icon>
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します
+                          XX_ここに興味のある技術を入力します_user3
                         </v-list-item-content>
                       </v-list-item>
                       <v-list-item class="my-n4">
@@ -101,7 +101,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します
+                          XX_ここに興味のある技術を入力します_user3
                         </v-list-item-content>
                       </v-list-item>
                       <v-list-item class="">
@@ -109,7 +109,7 @@
                           <v-icon color="#43a047">mdi-checkbox-marked</v-icon>
                         </v-list-item-icon>
                         <v-list-item-content>
-                          XX_ここに興味のある技術を入力します
+                          XX_ここに興味のある技術を入力します_user3
                         </v-list-item-content>
                       </v-list-item>
                     </v-list>
@@ -124,9 +124,9 @@
                     tile
                     color="#f5e4bf"
                   >
-                    <p class="title">好きな言葉</p>
+                    <p class="title">好きな言葉_user3</p>
                     <p>
-                      XX_ここに好きな言葉を入力します
+                      XX_ここに好きな言葉を入力します_user3
                     </p>
                   </v-card>
                 </v-col>
